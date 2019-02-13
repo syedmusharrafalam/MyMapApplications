@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_LOG_LEVEL"
+            value="verbose" />
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="Show only selected application" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="987e1dfc-0fa5-4fc8-a2e9-4715adc7f3a0" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FUSProjectUsageTrigger">
+        <session id="-629187339">
+            <usages-collector id="statistics.lifecycle.project">
+                <counts>
+                    <entry
+                        key="project.open.time.3"
+                        value="1" />
+                    <entry
+                        key="project.open.time.61"
+                        value="1" />
+                    <entry
+                        key="project.open.time.68"
+                        value="1" />
+                    <entry
+                        key="project.open.time.99"
+                        value="1" />
+                    <entry
+                        key="project.opened"
+                        value="4" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.open">
+                <counts>
+                    <entry
+                        key="gradle"
+                        value="1" />
+                    <entry
+                        key="java"
+                        value="1" />
+                    <entry
+                        key="xml"
+                        value="4" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.open">
+                <counts>
+                    <entry
+                        key="Groovy"
+                        value="1" />
+                    <entry
+                        key="JAVA"
+                        value="1" />
+                    <entry
+                        key="XML"
+                        value="4" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.extensions.edit">
+                <counts>
+                    <entry
+                        key="gradle"
+                        value="14" />
+                    <entry
+                        key="java"
+                        value="716" />
+                    <entry
+                        key="xml"
+                        value="3" />
+                </counts>
+            </usages-collector>
+            <usages-collector id="statistics.file.types.edit">
+                <counts>
+                    <entry
+                        key="Groovy"
+                        value="14" />
+                    <entry
+                        key="JAVA"
+                        value="716" />
+                    <entry
+                        key="XML"
+                        value="3" />
+                </counts>
+            </usages-collector>
+        </session>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/mapapplication/MapsActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="371">
+                            <caret
+                                column="35"
+                                line="79"
+                                selection-end-column="35"
+                                selection-end-line="79"
+                                selection-start-column="35"
+                                selection-start-line="79" />
+                            <folding>
+                                <element
+                                    expanded="true"
+                                    signature="imports" />
+                            </folding>
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="340">
+                            <caret
+                                column="8"
+                                line="20"
+                                selection-end-column="8"
+                                selection-end-line="20"
+                                selection-start-column="8"
+                                selection-start-line="20" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/build.gradle">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="391">
+                            <caret
+                                column="66"
+                                line="23"
+                                selection-end-column="66"
+                                selection-end-line="23"
+                                selection-start-column="66"
+                                selection-start-line="23" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="238">
+                            <caret
+                                line="14"
+                                selection-end-line="14"
+                                selection-start-line="14" />
+                        </state>
+                    </provider>
+                    <provider editor-type-id="android-manifest" />
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+                <option value="$PROJECT_DIR$/app/build.gradle" />
+     
